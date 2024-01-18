@@ -1,4 +1,4 @@
-package lk.ijse.gdse66.util;
+package lk.ijse.gdse66.pos.util;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

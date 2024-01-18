@@ -1,4 +1,4 @@
-package lk.ijse.gdse66.api;
+package lk.ijse.gdse66.pos.api;
 
 import jakarta.json.*;
 import lk.ijse.gdse66.pos.dto.CustomerDTO;
