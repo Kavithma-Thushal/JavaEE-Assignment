@@ -90,6 +90,10 @@ $("#btnDeleteCustomer").click(function () {
     });
 });
 
+$('#btnGetAllCustomers').click(function () {
+    loadAllCustomer();
+});
+
 /**
  * Search Customer
  **/
