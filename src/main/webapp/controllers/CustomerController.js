@@ -105,10 +105,12 @@ function searchCustomerId() {
             let row = "<tr><td>" + res.id + "</td><td>" + res.name + "</td><td>" + res.address + "</td><td>" + res.salary + "</td></tr>";
             $("#customerTable").append(row);
             blindClickEvents();
+            $('#searchCusId').val('');
         },
         error: function (error) {
             loadAllCustomer();
-            alert("Thi is not valid Customer ID");
+            $('#searchCusId').val('');
+            alert("Invalid Customer ID");
         }
     });
 }
