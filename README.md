@@ -11,7 +11,9 @@ Functions :-<br/>
 ✅User can Save, Search, Update, Delete & Get All Customers<br/>
 
 Simplify customer management with our user-friendly Customer Form. Capture and organize essential customer details
-effortlessly, ensuring a smooth and efficient process for maintaining accurate and up-to-date records.<br/><br/><br/>
+effortlessly, ensuring a smooth and efficient process for maintaining accurate and up-to-date records.<br/><br/>
+
+<img src="src/main/webapp/assets/ss/customer-form.png">
 
 <div align="center">
 
