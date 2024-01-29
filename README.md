@@ -1,4 +1,4 @@
-# JavaEE-Assignment (Customer Form)
+# JavaEE-Assignment (Customer Form Only)
 
 Technology :-<br/>
 ✅Java 8, MySQL<br/>
